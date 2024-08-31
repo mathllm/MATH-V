@@ -15,7 +15,8 @@
 [[🌐 Homepage](https://mathvision-cuhk.github.io/)] [[🤗 Huggingface Dataset](https://huggingface.co/datasets/MathLLMs/MathVision)] [[📊 Leaderboard ](https://mathvision-cuhk.github.io/#leaderboard )] [[🔍 Visualization](https://mathvision-cuhk.github.io/#visualization)] [[📖 ArXiv Paper](https://arxiv.org/pdf/2402.14804.pdf)]
 
 ## 💥 News
-- **[2024-07-19]** [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) now supports **MATH-V**, utilizing LLMs for more accurate answer extraction!🔥🔥🔥
+- **[2024-08-29]** 🔥🔥🔥 Qwen2-VL-72B achieves new open-sourced SOTA on MATH-Vision with 25.9! 🎉 Congratulations! Learn more at the [Qwen2-VL blog](https://qwenlm.github.io/blog/qwen2-vl/).
+- **[2024-07-19]** [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) now supports **MATH-V**, utilizing LLMs for more accurate answer extraction!🔥🔥
 - **[2024-05-19]** OpenAI's **GPT-4o** scores **30.39%** on **MATH-V**, considerable advancement in short time! 💥
 - **[2024-03-01]** **InternVL-Chat-V1-2-Plus** achieves **16.97%**, establishing itself as the new best-performing open-sourced model. 🎉 Congratulations!
 - **[2024-02-23]** Our dataset is now accessible at [huggingface](https://huggingface.co/datasets/MathLLMs/MathVision).
