@@ -15,6 +15,7 @@
 [[🌐 Homepage](https://mathllm.github.io/mathvision/)] [[🤗 Huggingface Dataset](https://huggingface.co/datasets/MathLLMs/MathVision)] [[📊 Leaderboard ](https://mathllm.github.io/mathvision/#leaderboard )] [[🔍 Visualization](https://mathllm.github.io/mathvision/#visualization)] [[📖 ArXiv Paper](https://arxiv.org/pdf/2402.14804.pdf)]
 
 ## 💥 News
+- **[2024-09-27]** **MATH-V** is accepted by NeurIPS DB Track, 2024! 🎉🎉🎉
 - **[2024-08-29]** 🔥🔥🔥 Qwen2-VL-72B achieves new open-sourced SOTA on MATH-Vision with 25.9! 🎉 Congratulations! Learn more at the [Qwen2-VL blog](https://qwenlm.github.io/blog/qwen2-vl/).
 - **[2024-07-19]** [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) now supports **MATH-V**, utilizing LLMs for more accurate answer extraction!🔥🔥
 - **[2024-05-19]** OpenAI's **GPT-4o** scores **30.39%** on **MATH-V**, considerable advancement in short time! 💥
