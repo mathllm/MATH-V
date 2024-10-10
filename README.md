@@ -12,7 +12,7 @@
 
 🌟  This is the official repository for the paper "[Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset](https://arxiv.org/pdf/2402.14804.pdf)", which contains both evaluation code and data for the **MATH-V** benchmark.
 
-[[🌐 Homepage](https://mathvision-cuhk.github.io/)] [[🤗 Huggingface Dataset](https://huggingface.co/datasets/MathLLMs/MathVision)] [[📊 Leaderboard ](https://mathvision-cuhk.github.io/#leaderboard )] [[🔍 Visualization](https://mathvision-cuhk.github.io/#visualization)] [[📖 ArXiv Paper](https://arxiv.org/pdf/2402.14804.pdf)]
+[[🌐 Homepage](https://mathllm.github.io/mathvision/)] [[🤗 Huggingface Dataset](https://huggingface.co/datasets/MathLLMs/MathVision)] [[📊 Leaderboard ](https://mathllm.github.io/mathvision/#leaderboard )] [[🔍 Visualization](https://mathllm.github.io/mathvision/#visualization)] [[📖 ArXiv Paper](https://arxiv.org/pdf/2402.14804.pdf)]
 
 ## 💥 News
 - **[2024-08-29]** 🔥🔥🔥 Qwen2-VL-72B achieves new open-sourced SOTA on MATH-Vision with 25.9! 🎉 Congratulations! Learn more at the [Qwen2-VL blog](https://qwenlm.github.io/blog/qwen2-vl/).
@@ -40,7 +40,7 @@ Through extensive experimentation, we unveil a notable performance gap between c
 
 
 
-You can refer to our [project homepage](https://mathvision-cuhk.github.io/) and [the paper](https://arxiv.org/pdf/2402.14804.pdf) for more details.
+You can refer to our [project homepage](https://mathllm.github.io/mathvision/) and [the paper](https://arxiv.org/pdf/2402.14804.pdf) for more details.
 
 ## 📐 Dataset Examples
 
@@ -65,7 +65,7 @@ You can refer to the Appendix D.3 of [the paper](https://arxiv.org/pdf/2402.1480
 
 ## 🏆 Leaderboard
 
-The leaderboard is available [here](https://mathvision-cuhk.github.io/#leaderboard).
+The leaderboard is available [here](https://mathllm.github.io/mathvision/#leaderboard).
 
 
 
