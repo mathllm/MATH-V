@@ -106,13 +106,13 @@ You can refer to the Appendix E and F of [the paper](https://arxiv.org/pdf/2402.
 If you find this benchmark useful in your research, please consider citing this BibTex:
 
 ```
-@misc{wang2024measuring,
-      title={Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset}, 
-      author={Ke Wang and Junting Pan and Weikang Shi and Zimu Lu and Mingjie Zhan and Hongsheng Li},
-      year={2024},
-      eprint={2402.14804},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{
+wang2024measuring,
+title={Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset},
+author={Ke Wang and Junting Pan and Weikang Shi and Zimu Lu and Houxing Ren and Aojun Zhou and Mingjie Zhan and Hongsheng Li},
+booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+year={2024},
+url={https://openreview.net/forum?id=QWTCcxMpPA}
 }
 ```
 
