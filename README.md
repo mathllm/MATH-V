@@ -15,7 +15,8 @@
 [[🌐 Homepage](https://mathllm.github.io/mathvision/)] [[🤗 Huggingface Dataset](https://huggingface.co/datasets/MathLLMs/MathVision)] [[📊 Leaderboard ](https://mathllm.github.io/mathvision/#leaderboard )] [[🔍 Visualization](https://mathllm.github.io/mathvision/#visualization)] [[📖 ArXiv Paper](https://arxiv.org/pdf/2402.14804.pdf)]
 
 ## 💥 News
-- **[2025.02.28]** 💥 **Doubao-1.5-pro 🥇 Sets New SOTA on MATH-V with 48.62%!** Read more on the [Doubao blog](https://team.doubao.com/zh/special/doubao_1_5_pro).
+- **[2025.03.10]** 💥 **Kimi k1.6 Preview 🥇 Sets New SOTA on MATH-V with 53.29%!** See the full [leaderboard](https://mathllm.github.io/mathvision/#leaderboard).
+- **[2025.02.28]** 💥 **Doubao-1.5-pro Sets New SOTA on MATH-V with 48.62%!** Read more on the [Doubao blog](https://team.doubao.com/zh/special/doubao_1_5_pro).
 - **[2025.01.26]** 🚀 [Qwen2.5-VL-72B](http://qwenlm.github.io/blog/qwen2.5-vl/) achieves **38.1%**, establishing itself as the best-performing one in open-sourced models. 🎉 Congratulations!
 - **[2025.01.22]** 💥 **Kimi k1.5  achieves new SOTA** on MATH-Vision with **38.6%**! Learn more at the [Kimi k1.5 report](https://arxiv.org/pdf/2501.12599).
 - **[2024-09-27]** **MATH-V** is accepted by NeurIPS DB Track, 2024! 🎉🎉🎉
