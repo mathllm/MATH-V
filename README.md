@@ -12,7 +12,7 @@
 
 🌟  This is the official repository for the paper "[Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset](https://arxiv.org/pdf/2402.14804.pdf)", which contains both evaluation code and data for the **MATH-V** benchmark.
 
-[[🌐 Homepage](https://mathllm.github.io/mathvision/)] [[🤗 Huggingface Dataset](https://huggingface.co/datasets/MathLLMs/MathVision)] [[📊 Leaderboard ](https://mathllm.github.io/mathvision/#leaderboard )] [[🔍 Visualization](https://mathllm.github.io/mathvision/#visualization)]
+[[🌐 Homepage](https://mathllm.github.io/mathvision/)] [[🤗 Huggingface Dataset](https://huggingface.co/datasets/MathLLMs/MathVision)] [[📊 Leaderboard ](https://mathllm.github.io/mathvision/#leaderboard )] [[🔍 Visualization](https://mathllm.github.io/mathvision/#visualization)] [[📖 Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/ad0edc7d5fa1a783f063646968b7315b-Paper-Datasets_and_Benchmarks_Track.pdf)]
 
 ## 💥 News
 - **[2025.04.05]** 💥 **Step R1-mini 🥇 Sets New SOTA on MATH-V with 56.6%!** See the full [leaderboard](https://mathllm.github.io/mathvision/#leaderboard).
