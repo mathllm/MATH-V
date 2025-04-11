@@ -15,6 +15,7 @@
 [[🌐 Homepage](https://mathllm.github.io/mathvision/)] [[🤗 Huggingface Dataset](https://huggingface.co/datasets/MathLLMs/MathVision)] [[📊 Leaderboard ](https://mathllm.github.io/mathvision/#leaderboard )] [[🔍 Visualization](https://mathllm.github.io/mathvision/#visualization)] [[📖 Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/ad0edc7d5fa1a783f063646968b7315b-Paper-Datasets_and_Benchmarks_Track.pdf)]
 
 ## 💥 News
+- **[2025.04.11]** 💥 **Kimi-VL-A3B-Thinking achieves strong multimodal reasoning with just 2.8B LLM activated parameters!** Congratulations! See the full [leaderboard](https://mathllm.github.io/mathvision/#leaderboard).
 - **[2025.04.05]** 💥 **Step R1-V-Mini 🥇 Sets New SOTA on MATH-V with 56.6%!** See the full [leaderboard](https://mathllm.github.io/mathvision/#leaderboard).
 - **[2025.03.10]** 💥 **Kimi k1.6 Preview Sets New SOTA on MATH-V with 53.29%!** See the full [leaderboard](https://mathllm.github.io/mathvision/#leaderboard).
 - **[2025.02.28]** 💥 **Doubao-1.5-pro Sets New SOTA on MATH-V with 48.62%!** Read more on the [Doubao blog](https://team.doubao.com/zh/special/doubao_1_5_pro).
