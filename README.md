@@ -16,6 +16,7 @@
 
 ## 💥 News
 - **[2025.04.11]** 💥 **Kimi-VL-A3B-Thinking achieves strong multimodal reasoning with just 2.8B LLM activated parameters!** Congratulations! See the full [leaderboard](https://mathllm.github.io/mathvision/#leaderboard).
+- **[2025.04.10]** 🔥🔥🔥 **SenseNova V6 Reasoner** achieves **55.39%** on MATH-Vision! 🎉 Congratulations!
 - **[2025.04.05]** 💥 **Step R1-V-Mini 🥇 Sets New SOTA on MATH-V with 56.6%!** See the full [leaderboard](https://mathllm.github.io/mathvision/#leaderboard).
 - **[2025.03.10]** 💥 **Kimi k1.6 Preview Sets New SOTA on MATH-V with 53.29%!** See the full [leaderboard](https://mathllm.github.io/mathvision/#leaderboard).
 - **[2025.02.28]** 💥 **Doubao-1.5-pro Sets New SOTA on MATH-V with 48.62%!** Read more on the [Doubao blog](https://team.doubao.com/zh/special/doubao_1_5_pro).
