@@ -14,6 +14,8 @@
 
 [[🌐 Homepage](https://mathllm.github.io/mathvision/)] [[🤗 Huggingface Dataset](https://huggingface.co/datasets/MathLLMs/MathVision)] [[📊 Leaderboard ](https://mathllm.github.io/mathvision/#leaderboard )] [[🔍 Visualization](https://mathllm.github.io/mathvision/#visualization)] [[📖 Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/ad0edc7d5fa1a783f063646968b7315b-Paper-Datasets_and_Benchmarks_Track.pdf)]
 
+<p align="center"><img src="assets/figures/mathvision2.png" width="50%"></p>
+
 ## 💥 News
 - **[2025.04.11]** 💥 **Kimi-VL-A3B-Thinking achieves strong multimodal reasoning with just 2.8B LLM activated parameters!** Congratulations! See the full [leaderboard](https://mathllm.github.io/mathvision/#leaderboard).
 - **[2025.04.10]** 🔥🔥🔥 **SenseNova V6 Reasoner** achieves **55.39%** on MATH-Vision! 🎉 Congratulations!
