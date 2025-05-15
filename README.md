@@ -112,15 +112,24 @@ If you find this benchmark useful in your research, please consider citing this 
 
 ```
 @inproceedings{
-    wang2024measuring,
-    title={Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset},
-    author={Ke Wang and Junting Pan and Weikang Shi and Zimu Lu and Houxing Ren and Aojun Zhou and Mingjie Zhan and Hongsheng Li},
-    booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
-    year={2024},
-    url={https://openreview.net/forum?id=QWTCcxMpPA}
+wang2024measuring,
+title={Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset},
+author={Ke Wang and Junting Pan and Weikang Shi and Zimu Lu and Houxing Ren and Aojun Zhou and Mingjie Zhan and Hongsheng Li},
+booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+year={2024},
+url={https://openreview.net/forum?id=QWTCcxMpPA}
 }
 ```
-
+```
+@inproceedings{
+wang2025mathcodervl,
+title={MathCoder-{VL}: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning},
+author={Ke Wang and Junting Pan and Linda Wei and Aojun Zhou and Weikang Shi and Zimu Lu and Han Xiao and Yunqiao Yang and Houxing Ren and Mingjie Zhan and Hongsheng Li},
+booktitle={The 63rd Annual Meeting of the Association for Computational Linguistics},
+year={2025},
+url={https://openreview.net/forum?id=nuvtX1imAb}
+}
+```
 ## 🧠 Related Work
 
 - **[CSV🔥]** [Solving Challenging Math Word Problems Using GPT-4 Code Interpreter with Code-based Self-Verification](https://wangk.org/publications/1_iclr2024_csv/)
