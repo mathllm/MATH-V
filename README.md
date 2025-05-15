@@ -17,6 +17,9 @@
 <p align="center"><img src="assets/figures/mathvision2.png" width="56%"></p>
 
 ## 💥 News
+
+- **[2025.05.16]** 🤗 [MathCoder-VL-2B](https://huggingface.co/MathLLMs/MathCoder-VL-2B), [MathCoder-VL-8B](https://huggingface.co/MathLLMs/MathCoder-VL-8B) and [FigCodifier-8B](https://huggingface.co/MathLLMs/FigCodifier) is available now! 🔥🔥🔥
+- **[2025.05.16]** Our MathCoder-VL is accepted to ACL 2025 Findings. 🔥🔥🔥
 - **[2025.05.13]** 🔥🔥🔥 **[Seed1.5-VL](https://github.com/ByteDance-Seed/Seed1.5-VL)** achieves **68.7%** on MATH-Vision! 🎉 Congratulations!
 - **[2025.04.11]** 💥 **Kimi-VL-A3B-Thinking achieves strong multimodal reasoning with just 2.8B LLM activated parameters!** Congratulations! See the full [leaderboard](https://mathllm.github.io/mathvision/#leaderboard).
 - **[2025.04.10]** 🔥🔥🔥 **SenseNova V6 Reasoner** achieves **55.39%** on MATH-Vision! 🎉 Congratulations!
