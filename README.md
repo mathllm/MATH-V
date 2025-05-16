@@ -119,8 +119,7 @@ booktitle={The Thirty-eight Conference on Neural Information Processing Systems 
 year={2024},
 url={https://openreview.net/forum?id=QWTCcxMpPA}
 }
-```
-```
+
 @inproceedings{
 wang2025mathcodervl,
 title={MathCoder-{VL}: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning},
