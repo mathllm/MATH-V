@@ -12,12 +12,12 @@
 
 🌟  This is the official repository for the paper "[Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset](https://arxiv.org/pdf/2402.14804.pdf)", which contains both evaluation code and data for the **MATH-V** benchmark.
 
-[[🌐 Homepage](https://mathllm.github.io/mathvision/)] [[🤗 Huggingface Dataset](https://huggingface.co/datasets/MathLLMs/MathVision)] [[📊 Leaderboard ](https://mathllm.github.io/mathvision/#leaderboard )] [[🔍 Visualization](https://mathllm.github.io/mathvision/#visualization)] [[📖 Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/ad0edc7d5fa1a783f063646968b7315b-Paper-Datasets_and_Benchmarks_Track.pdf)]
+[[🌐 Homepage](https://mathllm.github.io/mathvision/)] [[🤗 Huggingface Dataset](https://huggingface.co/datasets/MathLLMs/MathVision)] [[📊 Leaderboard ](https://mathllm.github.io/mathvision/#leaderboard)] [[📊 Open Source Leaderboard ](https://mathllm.github.io/mathvision/#openleaderboard)] [[🔍 Visualization](https://mathllm.github.io/mathvision/#visualization)] [[📖 Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/ad0edc7d5fa1a783f063646968b7315b-Paper-Datasets_and_Benchmarks_Track.pdf)]
 
 <p align="center"><img src="assets/figures/mathvision2.png" width="56%"></p>
 
 ## 💥 News
-
+- **[2025.05.16]** 💥 We now support the official open-source leaderboard! 🔥🔥🔥 [**Skywork-R1V2-38B**](https://github.com/SkyworkAI/Skywork-R1V) is the best open-source model, scoring **49.7** on MATH-Vision. 🔥🔥🔥 [**MathCoder-VL-2B**](https://huggingface.co/MathLLMs/MathCoder-VL-2B) is the best small model on MATH-Vision, scoring **21.7**. See the full [open-source leaderboard](https://mathllm.github.io/mathvision/#openleaderboard).
 - **[2025.05.16]** 🤗 [MathCoder-VL-2B](https://huggingface.co/MathLLMs/MathCoder-VL-2B), [MathCoder-VL-8B](https://huggingface.co/MathLLMs/MathCoder-VL-8B) and [FigCodifier-8B](https://huggingface.co/MathLLMs/FigCodifier) is available now! 🔥🔥🔥
 - **[2025.05.16]** Our MathCoder-VL is accepted to ACL 2025 Findings. 🔥🔥🔥
 - **[2025.05.13]** 🔥🔥🔥 **[Seed1.5-VL](https://github.com/ByteDance-Seed/Seed1.5-VL)** achieves **68.7%** on MATH-Vision! 🎉 Congratulations!
