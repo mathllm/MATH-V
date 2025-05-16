@@ -17,7 +17,7 @@
 <p align="center"><img src="assets/figures/mathvision2.png" width="56%"></p>
 
 ## 💥 News
-- **[2025.05.16]** 💥 We now support the official open-source leaderboard! 🔥🔥🔥 [**Skywork-R1V2-38B**](https://github.com/SkyworkAI/Skywork-R1V) is the best open-source model, scoring **49.7** on MATH-Vision. 🔥🔥🔥 [**MathCoder-VL-2B**](https://huggingface.co/MathLLMs/MathCoder-VL-2B) is the best small model on MATH-Vision, scoring **21.7**. See the full [open-source leaderboard](https://mathllm.github.io/mathvision/#openleaderboard).
+- **[2025.05.16]** 💥 We now support the official open-source leaderboard! 🔥🔥🔥 [**Skywork-R1V2-38B**](https://github.com/SkyworkAI/Skywork-R1V) is the best open-source model, scoring **49.7%** on MATH-Vision. 🔥🔥🔥 [**MathCoder-VL-2B**](https://huggingface.co/MathLLMs/MathCoder-VL-2B) is the best small model on MATH-Vision, scoring **21.7%**. See the full [open-source leaderboard](https://mathllm.github.io/mathvision/#openleaderboard).
 - **[2025.05.16]** 🤗 [MathCoder-VL-2B](https://huggingface.co/MathLLMs/MathCoder-VL-2B), [MathCoder-VL-8B](https://huggingface.co/MathLLMs/MathCoder-VL-8B) and [FigCodifier-8B](https://huggingface.co/MathLLMs/FigCodifier) is available now! 🔥🔥🔥
 - **[2025.05.16]** Our MathCoder-VL is accepted to ACL 2025 Findings. 🔥🔥🔥
 - **[2025.05.13]** 🔥🔥🔥 **[Seed1.5-VL](https://github.com/ByteDance-Seed/Seed1.5-VL)** achieves **68.7%** on MATH-Vision! 🎉 Congratulations!
